@@ -35,6 +35,11 @@ Users should be able to:
 - Solution URL: (https://github.com/girldocode/product-card-fr-mentor)
 - Live Site URL: (https://stats-preview-fr-mentor.vercel.app/)
 
+
+![Desktop design](./images/desktop-design.png)
+![Mobile design](./images/mobile-design.png)
+
+
 ## My process
 
 ### Built with
