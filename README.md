@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Stats preview card component
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -36,24 +36,23 @@ Users should be able to:
 - Live Site URL: (https://stats-preview-fr-mentor.vercel.app/)
 
 
+## My process
+
 ![Desktop design](./images/desktop-design.png)
 ![Mobile design](./images/mobile-design.png)
 
-
-## My process
-
-### Built with
+## Built with
 
 - HTML5
 - CSS
 - Flexbox
 - Mobile responsive 
 
-### What I learned
+## What I learned
 
 ...
 
-### Continued development
+## Continued development
 
 ...
 
